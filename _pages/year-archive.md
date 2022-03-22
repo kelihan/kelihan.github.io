@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-| ![profile.jpg](../images/profile.jpg =250x) |
+| ![profile.jpg](../images/profile.jpg) |
 |:--:|
 | <b>profile picture 1 </b>|
 
