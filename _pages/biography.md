@@ -36,12 +36,7 @@ redirect_from:
 
 全球高被引科学家 Thomson Reuters Highly Cited Researchers（2016）
 
-教授课程 Teachings Courses
-======
-分子激发态动力学 <br>
-分子反应动力学 <br>
-
-出版信息 Books
+出版信息 Books （[Amazon 亚马逊](https://www.amazon.com/Books-Keli-Han/s?rh=n%3A283155%2Cp_27%3AKeli+Han)）
 ======
 势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者
 
@@ -52,6 +47,11 @@ redirect_from:
 蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者
 
 Hydrogen-Bonding Reserach in Photochemistry, Photobiology, and Optoelectronic Materials, World Scientific, 2019-05, 第 1 作者
+
+教授课程 Teachings Courses
+======
+分子激发态动力学 <br>
+分子反应动力学 <br>
 
 重大项目 Selected fundings
 ======
