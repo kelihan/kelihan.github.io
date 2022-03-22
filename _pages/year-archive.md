@@ -9,13 +9,10 @@ redirect_from:
 
 <img src="../images/profile.jpg" width="200">
 
-| ![profile.jpg](../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp) |
-|:--:|
-| <b>profile picture 2 </b>|
+<img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="200">
 
-| ![image.jpg](../images/W020141024386453400645.jpg) |
-|:--:|
-| <b>conference </b>|
+<img src="../images/W020141024386453400645.jpg" width="200">
+
 
 | ![image.jpg](../images/7ba0b3ba9cdccb925b34cb0595cf75c4.temp.jpg) |
 |:--:|
