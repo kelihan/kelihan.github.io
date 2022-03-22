@@ -11,30 +11,30 @@ redirect_from:
 
 教育背景 Education
 ======
-1986-09--1990-03   大连化物所   理学博士 \n
-1983-09--1986-08   大连化物所   理学硕士 \n
-1979-09--1983-07   山东大学   理学学士 \n
+1986-09--1990-03   大连化物所   理学博士 <br>
+1983-09--1986-08   大连化物所   理学硕士 <br>
+1979-09--1983-07   山东大学   理学学士 <br>
 
 出国学习工作 Working experience
 ======
-1993-1994  美国加州大学戴维斯分校，  博士后， \n
-1994-1995 美国Emory大学，  博士后 \n
-1995-2022 中科院大连化物所， 研究员 课题组组长 \n
+1993-1994  美国加州大学戴维斯分校, 博士后， <br>
+1994-1995 美国Emory大学，  博士后 <br>
+1995-2022 中科院大连化物所， 研究员 课题组组长 <br>
 
 教授课程 Teachings Courses
 ======
-分子激发态动力学 \n
-分子反应动力学 \n
+分子激发态动力学 <br>
+分子反应动力学 <br>
 
 出版信息 Books
 ======
-（ 1 ） 势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者 \n
+（ 1 ） 势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者 <br>
 
-（ 2 ） 速率常数的计算, Reaction Rate Constant Computations, RCS, 2009-10, 第 1 作者 \n
+（ 2 ） 速率常数的计算, Reaction Rate Constant Computations, RCS, 2009-10, 第 1 作者 <br>
 
-（ 3 ） 激发态的氢键和转移, Hydrogen Bonding and Transfer in the Excited State , WILEY出版社, 2010-01, 第 1 作者 \n
+（ 3 ） 激发态的氢键和转移, Hydrogen Bonding and Transfer in the Excited State , WILEY出版社, 2010-01, 第 1 作者 <br>
 
-（ 4 ） 蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者 \n
+（ 4 ） 蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者 <br>
 
 指导学生 Former students and group alumni
 ======
