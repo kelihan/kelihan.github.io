@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Biography 生平"
+title: "生平 Biography"
 permalink: /biography/
 author_profile: true
 redirect_from:
@@ -17,9 +17,22 @@ redirect_from:
 
 出国学习工作 Working experience
 ======
-1993-1994  美国加州大学戴维斯分校, 博士后， <br>
+1993-1994 美国加州大学戴维斯分校, 博士后， <br>
 1994-1995 美国Emory大学，  博士后 <br>
 1995-2022 中科院大连化物所， 研究员 课题组组长 <br>
+
+奖项 Awards
+======
+
+中国科学院自然科学奖一等奖（1999）第一完成人； <br>
+
+中国化学会青年化学奖（1999）； <br>
+
+中国科学院青年科学家奖（2001）； <br>
+
+辽宁省自然科学奖一等奖（2005）第一完成人； <br>
+
+辽宁省自然科学一等奖（2015）第一完成人。 <br>
 
 教授课程 Teachings Courses
 ======
@@ -28,13 +41,26 @@ redirect_from:
 
 出版信息 Books
 ======
-（ 1 ） 势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者 <br>
+势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者
 
-（ 2 ） 速率常数的计算, Reaction Rate Constant Computations, RCS, 2009-10, 第 1 作者 <br>
+速率常数的计算, Reaction Rate Constant Computations, RCS, 2009-10, 第 1 作者
 
-（ 3 ） 激发态的氢键和转移, Hydrogen Bonding and Transfer in the Excited State , WILEY出版社, 2010-01, 第 1 作者 <br>
+激发态的氢键和转移, Hydrogen Bonding and Transfer in the Excited State , WILEY出版社, 2010-01, 第 1 作者
 
-（ 4 ） 蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者 <br>
+蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者
+
+Hydrogen-Bonding Reserach in Photochemistry, Photobiology, and Optoelectronic Materials, World Scientific, 2019-05, 第 1 作者
+
+重大项目 Selected fundings
+======
+
+（ 1 ） 多元复杂体系的分子激发态及非绝热动力学研究, 主持, 国家级, 2007-07--2011-08 <br>
+（ 2 ） 凝聚态复杂分子体系的反应动力学实验与理论研究, 主持, 国家级, 2009-01--2012-12 <br>
+（ 3 ） 阿秒分辨量子动力学, 主持, 国家级, 2010-01--2012-12 <br>
+（ 4 ） 复杂分子体系的激发态动力学, 主持, 国家级, 2016-01--2020-12 <br>
+（ 5 ） 碳氢燃料燃烧动力学机理研究, 主持, 国家级, 2015-01--2017-12 <br>
+（ 6 ） 分子激发态动力学研究, 主持, 国家级, 2013-01--2017-08 <br>
+（ 7 ） 非铅钙钛矿材料光电动力学, 主持, 国家级, 2019-01--2023-12 <br>
 
 指导学生 Former students and group alumni
 ======
