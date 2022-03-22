@@ -6,6 +6,9 @@ main:
     
   - title: "Publications (文章)"
     url: /publications/
+    
+  - title: "CV"
+    url: /cv/
 
   - title: "News（新闻）"
     url: /news/    
@@ -16,6 +19,5 @@ main:
   - title: "Album（相册）"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
+
     
