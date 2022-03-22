@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "memoriam"
-permalink: /memoriam.html
+permalink: /memoriam/
 author_profile: true
 ---
 
