@@ -7,13 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-<img src="../images/profile.jpg" width="200">
-
-<img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="200">
-
-<img src="../images/W020141024386453400645.jpg" height="400">
-
-<img src="../images/7ba0b3ba9cdccb925b34cb0595cf75c4.temp.jpg" height="400">
+<img src="../images/profile.jpg" width="200"> <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="200">
+<img src="../images/W020141024386453400645.jpg" height="600">
+<img src="../images/7ba0b3ba9cdccb925b34cb0595cf75c4.temp.jpg" height="600">
 
 | ![image.jpg](../images/80a8fd876acd26ef88572146b3693d9a.jpg) |
 |:--:|
