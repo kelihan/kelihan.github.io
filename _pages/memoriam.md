@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "memoriam"
+title: "Memoriam 悼念"
 permalink: /memoriam/
 author_profile: true
 ---
