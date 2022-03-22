@@ -11,10 +11,10 @@ redirect_from:
 |:--:|
 | <b>profile picture 1 </b>|
 
-| ![profile.jpg](https://drive.google.com/file/d/1rHUfrKmEQHwuO24ZkADR2mAxV27Lj2sw/view?usp=sharing) |
+| ![profile.jpg](../images/3953273590_704e3899d5_m.jpg) |
 |:--:|
 | <b>profile picture 2 </b>|
 
-| ![image.jpg](https://drive.google.com/file/d/1sn0_ooeGMMepaAn_iYgmv6odaoKNol2U/view?usp=sharing) |
+| ![image.jpg]((../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp) |
 |:--:|
 | <b>conference </b>|
