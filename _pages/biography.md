@@ -9,51 +9,34 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+教育背景
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+1986-09--1990-03   大连化物所   理学博士
+1983-09--1986-08   大连化物所   理学硕士
+1979-09--1983-07   山东大学   理学学士
 
-Work experience
+学历
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+1979年9月4日—1983年7月10日   山东大学       理学学士
+1983年9月4日—1986年8月20日   大连化物所   理学硕士
+1986年9月4日—1990年3月20日   大连化物所   理学博士
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+出国学习工作
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+1993-1994  美国加州大学戴维斯分校，  博士后，
+1994-1995 美国Emory大学，  博士后
 
-Publications
+教授课程
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+分子激发态动力学
+分子反应动力学
+
+出版信息
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+（ 1 ） 势能面与分子碰撞理论, Potential Energy Surface and Molecular Collision Theory, 吉林大学出版社, 2009-01, 第 1 作者
+
+（ 2 ） 速率常数的计算, Reaction Rate Constant Computations, RCS, 2009-10, 第 1 作者
+
+（ 3 ） 激发态的氢键和转移, Hydrogen Bonding and Transfer in the Excited State , WILEY出版社, 2010-01, 第 1 作者
+
+（ 4 ） 蛋白质构象动力学, Protein Conformational Dynamics, Springer, 2014-09, 第 1 作者
