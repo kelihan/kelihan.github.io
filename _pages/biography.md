@@ -34,6 +34,8 @@ redirect_from:
 
 辽宁省自然科学一等奖（2015）第一完成人。 <br>
 
+全球高被引科学家 Thomson Reuters Highly Cited Researchers（2016）
+
 教授课程 Teachings Courses
 ======
 分子激发态动力学 <br>
