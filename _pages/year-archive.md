@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <img src="../images/profile.jpg" width="400"> <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="400">
-<img src="../images/WeChat Image_20220322213943.jpg" width="500">
+<img src="../images/WeChat Image_20220322213943.jpg" width="1000">
 <img src="../images/W020141024386453400645.jpg" height="500">
 <img src="../images/7ba0b3ba9cdccb925b34cb0595cf75c4.temp.jpg" height="500">
 <img src="../images/80a8fd876acd26ef88572146b3693d9a.jpg" height="500">
