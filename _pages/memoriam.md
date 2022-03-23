@@ -10,7 +10,7 @@ author_profile: true
 风尘仆仆终有归，<br>
 冰雪融融谢天山。<br>
 
-      --曲宗金
+      ——曲宗金
 
 ### 微信记录 Wechat
 
