@@ -5,6 +5,13 @@ permalink: /memoriam/
 author_profile: true
 ---
 
+寒云惨淡晴不转，
+玉兰柳萌冷风残。
+风尘仆仆终有归，
+冰雪融融谢天山。
+
+      -----曲宗金
+
 ### 微信记录 Wechat
 
 李顺顺  10:20
