@@ -4,7 +4,16 @@ title: "Memoriam 悼念"
 permalink: /memoriam/
 author_profile: true
 ---
-### 祭文：
+### 祭文 (按拼音排序)：
+
+<pre>
+    忆恩师<br>
+寒云惨淡晴不转，
+玉兰柳萌冷风残。
+风尘仆仆终有归，
+冰雪融融谢天山。
+              ——曲宗金
+</pre>
 
 <pre>
 
@@ -44,14 +53,7 @@ author_profile: true
 </pre>
 
 
-<pre>
-    忆恩师<br>
-寒云惨淡晴不转，
-玉兰柳萌冷风残。
-风尘仆仆终有归，
-冰雪融融谢天山。
-              ——曲宗金
-</pre>
+
 
 ### 微信记录 Wechat
 
