@@ -4,7 +4,7 @@ title: "Memoriam 悼念"
 permalink: /memoriam/
 author_profile: true
 ---
-### 韩克利研究员学生祭文：
+### 祭文：
 
 <pre>
 
