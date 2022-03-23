@@ -17,4 +17,4 @@ redirect_from:
 <img src="../images/WeChat Image_20220322205024.jpg" height="500">
 <img src="../images/WeChat Image_20220322205131.jpg" height="400">
 <img src="../images/WeChat Image_20220322203538.jpg" height="500">
-<img src="../images/WeChat Image_20220322203451" height="500">
+<img src="../images/WeChat Image_20220322203451.jpg" height="500">
