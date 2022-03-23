@@ -54,16 +54,16 @@ author_profile: true
 </pre>
 ---
 
-[我的导师韩克利先生走了，突然间没有了回去大化所的理由](https://blog.sciencenet.cn/blog-2438823-1330098.html)
+[沉痛悼念我敬爱的恩师](../docs/沉痛悼念我敬爱的恩师.pdf)
 <pre>
-        ——于法标
+        ——王红明
         
 </pre>
 ---
 
-[沉痛悼念我敬爱的恩师](../docs/沉痛悼念我敬爱的恩师.pdf)
+[我的导师韩克利先生走了，突然间没有了回去大化所的理由](https://blog.sciencenet.cn/blog-2438823-1330098.html)
 <pre>
-        ——王红明
+        ——于法标
         
 </pre>
 ---
