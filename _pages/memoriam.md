@@ -5,7 +5,7 @@ permalink: /memoriam/
 author_profile: true
 ---
 
-### 微信记录
+### 微信记录 Wechat
 
 李顺顺  10:20
 
@@ -691,7 +691,7 @@ Hong Zhang  23:36
 
 昨晚梦到了韩老师，在食堂里和别人交谈，音容笑貌依旧[Sob][Sob][Sob]
 
-### blog
+### 博客 Blog
 
 [我的导师韩克利先生走了，突然间没有了回去大化所的理由](https://blog.sciencenet.cn/blog-2438823-1330098.html)
 
