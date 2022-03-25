@@ -11,12 +11,12 @@ redirect_from:
 <pre>
 此网站用于纪念韩克利研究员。
                 ——女儿韩博然
-<\pre>
+</pre>
 
 <pre>
 In memoriam of Prof. Keli Han, who was a distinguished scientist and a great father                                                       
 By daughter, Boran Han
-<\pre>
+</pre>
 
 韩克利，1963年3月生于山东菏泽，中国科学院特聘研究员，中国科学院大连化学物理研究所首席研究员，博士生导师，著名的分子反应动力学专家，国家杰青科学基金获得者，中国民主同盟优秀盟员。
 
