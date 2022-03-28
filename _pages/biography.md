@@ -60,11 +60,11 @@ redirect_from:
 
 ### 主编著作 Books （[Amazon 亚马逊](https://www.amazon.com/Books-Keli-Han/s?rh=n%3A283155%2Cp_27%3AKeli+Han)）
 
-1)	Ke-li. Han, Guang-jiu Zhao, Hydrogen Bonding and Transfer in the Excited State(I, II), A John Wiley and Sons, 2010, Britain. <br>
-2)	Ke-li Han, Benfan Sun, Potential Energy Surface and Molecular Collision Theory, Jilin University Press, 2009, China. <br>
-3)	Keli-Han, Tianshu Chu, Reaction Rate Constant Computations, RCS Press, 2013, Britain. <br>
-4)	Keli-Han, Xin Zhang, Ming-jun Yang, Protein Conformational Dynamics, Springer Press, 2014,New York.  <br>
-5）Ke-li. Han, Guang-jiu Zhao，Hydrogen-Bonding Research in Photochemistry, Photobiology, and Optoelectronic Materials. World Scientific, 2019,  <br>
+1.	Ke-li. Han, Guang-jiu Zhao, Hydrogen Bonding and Transfer in the Excited State(I, II), A John Wiley and Sons, 2010, Britain. <br>
+2.	Ke-li Han, Benfan Sun, Potential Energy Surface and Molecular Collision Theory, Jilin University Press, 2009, China. <br>
+3.	Keli-Han, Tianshu Chu, Reaction Rate Constant Computations, RCS Press, 2013, Britain. <br>
+4.	Keli-Han, Xin Zhang, Ming-jun Yang, Protein Conformational Dynamics, Springer Press, 2014,New York.  <br>
+5.	Ke-li. Han, Guang-jiu Zhao，Hydrogen-Bonding Research in Photochemistry, Photobiology, and Optoelectronic Materials. World Scientific, 2019,  <br>
 
 ### 参与章节 Book chapter 
 1.	Guangjiu Zhao, Keli Han, Hydrogen Bonding Effects on the Photochemistry of Chromophores in Solution, Photochemistry Research Progress (Chapter 5), pp 161-191, Nova Science Publishers, 2008, USA. <br>
