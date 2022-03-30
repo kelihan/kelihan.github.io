@@ -249,6 +249,12 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  - scope:
+      path: ""
+      type: albums
+    values:
+      layout: single
+      author_profile: true
 
 # Sass/SCSS
 sass:
