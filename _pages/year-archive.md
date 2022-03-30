@@ -7,10 +7,9 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 
-[test1](https://heatonz.github.io/album/test1)  
-[test2](https://heatonz.github.io/album/test2)  
-[test3](https://heatonz.github.io/album/test3)  
-[test3](/album/test3)  
+[证件照](/album/id)  
+[集体照](/album/group)  
+[生活照](/album/life)  
 
 <img src="../images/profile.jpg" width="400"> <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="400">
 <img src="../images/WeChat Image_20220322213943.jpg" width="1000">
