@@ -19,5 +19,7 @@ main:
   - title: "Memoriam（悼念）"
     url: /memoriam/
     
-
+  - title: "Comment（留言）"
+    url: /comment/
+    
     
