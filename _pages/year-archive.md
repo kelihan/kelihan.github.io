@@ -22,5 +22,8 @@ redirect_from:
 <img src="../images/WeChat Image_20220322203538.jpg" height="400">
 <img src="../images/WeChat Image_20220322203451.jpg" height="500"> -->
 
+### 葬礼视频1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GTzEPbo8TBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### 葬礼视频2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNC9ZHhAHKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
