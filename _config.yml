@@ -11,9 +11,9 @@ title                    : "Prof. Keli Han (韩克利研究员)"
 title_separator          : "-"
 name                     : &name "Prof. Keli Han (韩克利研究员)"
 description              : &description "Professor at Dalian Institute of Chemical Physics, Chinese Academy of Sciences (中国科学院大连化学物理研究所)"
-url                      : https://heatonz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://kelihan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "heatonz.github.io"
+repository               : "kelihan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
