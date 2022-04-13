@@ -22,6 +22,12 @@ redirect_from:
 <img src="../images/WeChat Image_20220322203538.jpg" height="400">
 <img src="../images/WeChat Image_20220322203451.jpg" height="500"> -->
 
+[非铅钙钛矿纳米晶载流子动力学研究](https://www.koushare.com/video/videodetail/15177) <br>
+Report title：非铅钙钛矿纳米晶载流子动力学研究 <br>
+Report location：烟台 <br>
+Date：2021-07-26 <br>
+Organizer：鲁东大学 <br>
+
 ### 葬礼视频1
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GTzEPbo8TBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
