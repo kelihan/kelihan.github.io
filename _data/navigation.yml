@@ -9,9 +9,6 @@ main:
 
   - title: "News（各类报道）"
     url: /news/    
-    
-  - title: "Talks (报告/视频)"
-    url: /talks/
         
   - title: "media（影像）"
     url: /year-archive/
