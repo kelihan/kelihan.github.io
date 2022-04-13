@@ -28,8 +28,8 @@ Report location：烟台 <br>
 Date：2021-07-26 <br>
 Organizer：鲁东大学 <br>
 
-### 葬礼视频1
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GTzEPbo8TBA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+### 葬礼视频1 [Youtube版本](https://www.youtube.com/embed/GTzEPbo8TBA)
+<iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7086075803230077480?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
 
 ### 葬礼视频2
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BNC9ZHhAHKg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
