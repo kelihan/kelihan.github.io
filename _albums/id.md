@@ -3,9 +3,9 @@ title: "证件照"
 collection: albums
 permalink: /album/id
 ---
-<a href="../images/profile.jpg">
-  <img src="../images/profile.jpg" width="100">
+<a href="../keli_photo/证件照/P020180928258101403240.jpg">
+  <img src="../keli_photo/证件照/P020180928258101403240.jpg" width="100">
 </a>
-<a href="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp">
-  <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="100">
+<a href="../keli_photo/证件照/韩克利1寸.jpg">
+  <img src="../keli_photo/证件照/韩克利1寸.jpg" width="100">
 </a>
