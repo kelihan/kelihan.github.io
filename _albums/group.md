@@ -4,7 +4,7 @@ collection: albums
 permalink: /album/group
 ---
 点击放大
-#responsive-image {height: 100px;  width: auto; } 
+
 <a href="../keli_photo/group/2008_1.jpg">
   <img src="../keli_photo/group/2008_1.jpg", height="100">
 </a>
@@ -38,10 +38,21 @@ permalink: /album/group
 <a href="../keli_photo/group/WeChat Image_20220322213943.jpg">
   <img src="../keli_photo/group/WeChat Image_20220322213943.jpg", height="100">
 </a>
-
-{% for image in site.static_files %}
-    {% if image.path contains '../keli_photo/group' %}
-        #responsive-image {width: 100px;  height: auto; } 
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" height="50">
-    {% endif %}
-{% endfor %}
+<a href="../keli_photo/group/WeChat Image_20220323135337.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323135337.jpg", height="100">
+</a>
+<a href="../keli_photo/group/WeChat Image_20220323140824.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323140824.jpg", height="100">
+</a>
+<a href="../keli_photo/group/WeChat Image_20220323141112.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323141112.jpg", height="100">
+</a>
+<a href="../keli_photo/group/WeChat Image_20220323141826.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323141826.jpg", height="100">
+</a>
+<a href="../keli_photo/group/WeChat Image_20220323142227.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323142227.jpg", height="100">
+</a>
+<a href="../keli_photo/group/WeChat Image_20220323142254.jpg">
+  <img src="../keli_photo/group/WeChat Image_20220323142254.jpg", height="100">
+</a>
