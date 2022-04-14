@@ -7,7 +7,8 @@ title: "留言"
 2. 推荐留言结尾属名
 3. 如须上传图片，删除或修改，[请点击此处留言](https://github.com/kelihan/kelihan.github.io/issues/2)，可拖拽上传本地图片
 4. 禁止广告宣传等一切商业行为，管理员保留删除违规性留言的权利
-5. 意见反馈与信息错误纠正，点击此处留言。反馈内容将不会在网站中显示。
+5. 意见反馈与信息错误纠正，[点击此处](https://github.com/kelihan/kelihan.github.io/issues/3)。注意：反馈内容将不会在网站中显示。
+
 <script src="https://utteranc.es/client.js"
         repo="kelihan/kelihan.github.io"
         issue-term="title"
