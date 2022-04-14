@@ -8,9 +8,12 @@ redirect_from:
 ---
 ### 照片
 [证件照](/album/id)  
-[集体照](/album/group)  
+[集体合影](/album/group)  
+[工作照](/album/work)  
 [生活照](/album/life)  
+[其他](/album/others)  
 
+[留言板块](https://kelihan.github.io/comment/)可提供更多照片
 
 <!-- <img src="../images/profile.jpg" width="400"> <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="400">
 <img src="../images/WeChat Image_20220322213943.jpg" width="1000">
