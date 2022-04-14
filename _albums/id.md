@@ -9,7 +9,6 @@ permalink: /album/id
 <a href="../keli_photo/ID/韩克利1寸.jpg">
   <img src="../keli_photo/ID/韩克利1寸.jpg" width="100">
 </a>
-
 <a href="../keli_photo/ID/韩克利-形象照.jpg">
   <img src="../keli_photo/ID/韩克利-形象照.jpg" width="100">
 </a>
