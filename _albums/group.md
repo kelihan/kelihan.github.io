@@ -38,12 +38,3 @@ permalink: /album/group
 <a href="../keli_photo/group/WeChat Image_20220322213943.jpg">
   <img src="../keli_photo/group/WeChat Image_20220322213943.jpg", height="100">
 </a>
-
-<?php
-    $files = scandir('../keli_photo/group/');
-    foreach($files as $file) {
-        if($file !== "." && $file !== "..") {
-            echo "<img src='$file', height='100' />";
-        }
-    }
-?>
