@@ -6,6 +6,6 @@ permalink: /album/id
 <a href="../images/profile.jpg">
   <img src="../images/profile.jpg" width="100">
 </a>
-<a href="../images/profile.jpg">
+<a href="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp">
   <img src="../images/10aab94c51fa9452974b2b3fa1332cc585fcc04a.jpg@942w_1413h_progressive.webp" width="100">
 </a>
