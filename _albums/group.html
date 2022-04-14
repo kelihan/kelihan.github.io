@@ -38,3 +38,9 @@ permalink: /album/group
 <a href="../keli_photo/group/WeChat Image_20220322213943.jpg">
   <img src="../keli_photo/group/WeChat Image_20220322213943.jpg", height="100">
 </a>
+
+{% for image in site.static_files %}
+    {% if image.path contains '../keli_photo/group' %}
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+    {% endif %}
+{% endfor %}
