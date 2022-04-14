@@ -47,9 +47,6 @@ permalink: /album/group
 <a href="../keli_photo/group/WeChat Image_20220323141112.jpg">
   <img src="../keli_photo/group/WeChat Image_20220323141112.jpg", height="100">
 </a>
-<a href="../keli_photo/group/WeChat Image_20220323141826.jpg">
-  <img src="../keli_photo/group/WeChat Image_20220323141826.jpg", height="100">
-</a>
 <a href="../keli_photo/group/WeChat Image_20220323142227.jpg">
   <img src="../keli_photo/group/WeChat Image_20220323142227.jpg", height="100">
 </a>
