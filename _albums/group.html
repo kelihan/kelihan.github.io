@@ -9,7 +9,7 @@ permalink: /album/group
   <img src="../keli_photo/group/2008_1.jpg", height="100">
 </a>
 <a href="../keli_photo/group/2009_0526.jpg">
-  <img src="../keli_photo/group/2009_0526.jpg", height="100">
+  <img src="../keli_photo/group/2009_0526.jpg", height="50">
 </a>
 <a href="../keli_photo/group/2012.11.26.jpg">
   <img src="../keli_photo/group/2012.11.26.jpg", height="100">
@@ -41,6 +41,6 @@ permalink: /album/group
 
 {% for image in site.static_files %}
     {% if image.path contains '../keli_photo/group' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
+        <img src="{{ site.baseurl }}{{ image.path }}" alt="image", height="50" />
     {% endif %}
 {% endfor %}
