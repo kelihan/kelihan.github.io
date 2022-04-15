@@ -23,7 +23,7 @@ for dirName in dirNames:
         md += '---\n'
 
         for file in files:
-            md += '<a href="'+file+'"><img src="'+file+'" height="100"></a>\n'
+            md += '<a href="'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
         print(md_filename)
