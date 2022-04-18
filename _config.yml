@@ -50,12 +50,13 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 carousels:
   - images: 
+    - image: /keli_photo/feature/head.png
+    - image: /keli_photo/feature/会议合影.jpg
     - image: /keli_photo/feature/IMG_2912.JPG
     - image: /keli_photo/feature/WeChat Image_20220323135013.jpg
     - image: /keli_photo/feature/WeChat Image_20220323135811.jpg
     - image: /keli_photo/feature/af6d5117e4b24354fe087428d3ff6e75.jpg
-    - image: /keli_photo/feature/head.png
-    - image: /keli_photo/feature/会议合影.jpg
+
     
 # SEO Related
 google_site_verification :
