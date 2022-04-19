@@ -1,7 +1,7 @@
 import os
 targetPath=os.path.join(os.path.split(os.path.realpath(__file__))[0], '../_albums')
 dirPath=os.path.join(os.path.split(os.path.realpath(__file__))[0], '../keli_photo')
-dirNames=['ID', 'feature', 'group', 'life', 'other', 'work']
+dirNames=['ID', 'group', 'life', 'other', 'work']
 dirMap={
     'ID':'证件照',
     'feature':'feature',
