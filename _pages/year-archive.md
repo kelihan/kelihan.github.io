@@ -7,7 +7,7 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 ### 照片
-[证件照](/album/id)  
+[证件照](/album/ID)  
 [集体合影](/album/group)  
 [工作照](/album/work)  
 [生活照](/album/life)  
