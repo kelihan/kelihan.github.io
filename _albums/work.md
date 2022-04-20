@@ -3,8 +3,6 @@ title: "工作照"
 collection: albums
 permalink: /album/work
 ---
-点击放大
-
 <a href="../keli_photo/work/_MG_5742.jpg"><img src="../keli_photo/work/_MG_5742.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/work/微信图片_20220323131413.jpg"><img src="../keli_photo/work/微信图片_20220323131413.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/work/WeChat Image_20220323141315.jpg"><img src="../keli_photo/work/WeChat Image_20220323141315.jpg" height="25" width="24%"></a>
