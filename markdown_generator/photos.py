@@ -26,7 +26,7 @@ for dirName in dirNames:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             else:
-                md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="25"></a>\n'
+                md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="25" width="24%"></a>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
         print(md_filename)
