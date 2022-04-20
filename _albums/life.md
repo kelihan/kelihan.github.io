@@ -8,7 +8,6 @@ permalink: /album/life
 <a href="../keli_photo/life/WeChat Image_20220328132428.jpg"><img src="../keli_photo/life/WeChat Image_20220328132428.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323135619.jpg"><img src="../keli_photo/life/WeChat Image_20220323135619.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323135712.jpg"><img src="../keli_photo/life/WeChat Image_20220323135712.jpg" height="25" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323142158.jpg"><img src="../keli_photo/life/WeChat Image_20220323142158.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220328132027.jpg"><img src="../keli_photo/life/WeChat Image_20220328132027.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323135915.jpg"><img src="../keli_photo/life/WeChat Image_20220323135915.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323141011.jpg"><img src="../keli_photo/life/WeChat Image_20220323141011.jpg" height="25" width="24%"></a>
