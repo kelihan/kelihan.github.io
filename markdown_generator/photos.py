@@ -21,12 +21,12 @@ for dirName in dirNames:
         md += 'collection: albums\n'
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
-
+        md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             else:
-                md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="25" width="24%"></a>\n'
+                md += '<a class="gallery-img" href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="25" width="24%"></a>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
         print(md_filename)
