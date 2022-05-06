@@ -12,7 +12,7 @@ dirMap={
     'work':'工作照',
 }
 
-pdffiles = [f[:-3] for f in listdir('../docs/') if isfile(join('../docs/', f))]
+pdffiles = [f[:-3] for f in os.listdir('../docs/') if isfile(join('../docs/', f))]
 for dirName in dirNames:
     print(dirPath+'/'+dirName)
     for root,d, files in os.walk(dirPath+'/'+dirName):
