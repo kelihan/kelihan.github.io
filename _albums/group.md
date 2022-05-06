@@ -6,7 +6,6 @@ permalink: /album/group
 <style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style><a href="../keli_photo/group/WeChat Image_20220323142515.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142515.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/会议合影.jpg"><img class="gallery-img" src="../keli_photo/group/会议合影.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142327.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142327.jpg" height="25" width="24%"></a>
-<a href="../keli_photo/group/WeChat Image_20220323142701.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142701.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/mmexport1651062737210.jpg"><img class="gallery-img" src="../keli_photo/group/mmexport1651062737210.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/20141201_GroupPhoto.jpg"><img class="gallery-img" src="../keli_photo/group/20141201_GroupPhoto.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/金石滩.jpg"><img class="gallery-img" src="../keli_photo/group/金石滩.jpg" height="25" width="24%"></a>
