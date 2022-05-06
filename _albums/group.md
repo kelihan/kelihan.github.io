@@ -18,8 +18,8 @@ permalink: /album/group
 <a href="../keli_photo/group/2012.11.26.jpg"><img class="gallery-img" src="../keli_photo/group/2012.11.26.jpg" width="24%"></a>
 <a href="../keli_photo/group/2008_1.jpg"><img class="gallery-img" src="../keli_photo/group/2008_1.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142254.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142254.jpg" width="24%"></a>
-<a href="../keli_photo/group/2021.png"><img class="gallery-img" src="../keli_photo/group/2021.png" width="24%"><em>image_caption</em></a>
-<a href="../keli_photo/group/2005.jpg"><img class="gallery-img" src="../keli_photo/group/2005.jpg" width="24%"><em>image_caption</em></a>
+<p><a href="../keli_photo/group/2021.png"><img class="gallery-img" src="../keli_photo/group/2021.png" width="24%"></a><em>image_caption</em></p>
+<p><a href="../keli_photo/group/2005.jpg"><img class="gallery-img" src="../keli_photo/group/2005.jpg" width="24%"></a><em>image_caption</em></p>
 <a href="../keli_photo/group/mmexport1651062750847.jpg"><img class="gallery-img" src="../keli_photo/group/mmexport1651062750847.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220328132724.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220328132724.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142644.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142644.jpg" width="24%"></a>
@@ -38,7 +38,7 @@ permalink: /album/group
 <a href="../keli_photo/group/2015.9.14.jpg"><img class="gallery-img" src="../keli_photo/group/2015.9.14.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142227.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142227.jpg" width="24%"></a>
 <a href="../keli_photo/group/2009_0526.jpg"><img class="gallery-img" src="../keli_photo/group/2009_0526.jpg" width="24%"></a>
-<a href="../keli_photo/group/2016.jpg"><img class="gallery-img" src="../keli_photo/group/2016.jpg" width="24%"><em>image_caption</em></a>
+<p><a href="../keli_photo/group/2016.jpg"><img class="gallery-img" src="../keli_photo/group/2016.jpg" width="24%"></a><em>image_caption</em></p>
 <a href="../keli_photo/group/WeChat Image_20220323140824.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323140824.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142601.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142601.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220328131959.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220328131959.jpg" width="24%"></a>
@@ -46,5 +46,5 @@ permalink: /album/group
 <a href="../keli_photo/group/WeChat Image_20220323135337.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323135337.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220328132127.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220328132127.jpg" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220322205024.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220322205024.jpg" width="24%"></a>
-<a href="../keli_photo/group/2017.jpg"><img class="gallery-img" src="../keli_photo/group/2017.jpg" width="24%"><em>image_caption</em></a>
+<p><a href="../keli_photo/group/2017.jpg"><img class="gallery-img" src="../keli_photo/group/2017.jpg" width="24%"></a><em>image_caption</em></p>
 <a href="../keli_photo/group/WeChat Image_20220323142355.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142355.jpg" width="24%"></a>
