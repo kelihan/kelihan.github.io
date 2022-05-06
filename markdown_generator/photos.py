@@ -11,7 +11,7 @@ dirMap={
     'work':'工作照',
 }
 
-pdffiles = [f[:-3] for f in os.listdir('../docs/') if os.path.isfile(os.path.join('../docs/', f))]
+pdffiles = []# [f[:-3] for f in os.listdir('../docs/') if os.path.isfile(os.path.join('../docs/', f))]
 for dirName in dirNames:
     print(dirPath+'/'+dirName)
     for root,d, files in os.walk(dirPath+'/'+dirName):
@@ -23,7 +23,7 @@ for dirName in dirNames:
         md += 'collection: albums\n'
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
-        md += '点击可放大\n'
+        md += '点击放大\n'
         md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>\n'
         for file in files:
             if dirName == 'ID':
