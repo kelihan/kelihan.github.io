@@ -21,7 +21,8 @@ for dirName in dirNames:
         md += 'collection: albums\n'
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
-        md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>'
+        md += '点击放大\n'
+        md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>\n'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
