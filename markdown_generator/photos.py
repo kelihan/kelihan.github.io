@@ -31,7 +31,7 @@ for dirName in dirNames:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<p><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a><em>image_caption</em></p>\n'
+                md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"><figcaption>caption</figcaption></a>\n'
             else:
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
         
