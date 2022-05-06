@@ -13,7 +13,7 @@ redirect_from:
 [集体合影](/album/group)  
 [工作照](/album/work)  
 [生活照](/album/life)  
-<!---[其他](/album/others)  -->
+[其他](/album/others)
 
 如想要提供更多照片，点击[留言板块](https://kelihan.github.io/comment/)可自行上传。
 
