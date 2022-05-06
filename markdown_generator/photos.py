@@ -26,12 +26,12 @@ for dirName in dirNames:
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
         md += '点击可放大\n'
-        md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>\n'
+        md += '<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 8px;}</style>\n'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<figure><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a><figcaption align = "center"><b>报道</b></figcaption></figure>\n'
+                md += '<figure><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a><figcaption><b>报道</b></figcaption></figure>\n'
             else:
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
         
