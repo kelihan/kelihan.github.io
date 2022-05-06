@@ -44,5 +44,6 @@ permalink: /album/group
 <a href="../keli_photo/group/海边.jpg"><img class="gallery-img" src="../keli_photo/group/海边.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323135337.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323135337.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220328132127.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220328132127.jpg" height="25" width="24%"></a>
+<a href="../keli_photo/group/WeChat Image_20220322205024.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220322205024.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/2017.jpg"><img class="gallery-img" src="../keli_photo/group/2017.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/group/WeChat Image_20220323142355.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142355.jpg" height="25" width="24%"></a>
