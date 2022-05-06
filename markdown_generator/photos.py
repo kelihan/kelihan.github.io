@@ -26,14 +26,14 @@ for dirName in dirNames:
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
         md += '点击可放大\n'
-        md += '<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 8px;}</style>\n'
+        md += '<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 8px;}</style>\n\n'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<table style="float: left; width:30%; border:hidden; cellspacing:0; cellpadding:0"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td> <a href="../docs/'+file[:-4]+'.pdf'+'">报道 News</a></td></tr></table>\n'
+                md += '<table style="float: left; width:30%; border:0"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td> <a href="../docs/'+file[:-4]+'.pdf'+'">相关报道与文件 Documents behind the pictures</a></td></tr></table>\n'
             else:
-                md += '<table style="float: left; width:30%; border:hidden; cellspacing:0; cellpadding:0"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td> <p>    </p></td></tr></table>\n'
+                md += '<table style="float: left; width:30%; border:0"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td> <p>    </p></td></tr></table>\n'
                 #md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
