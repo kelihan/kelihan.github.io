@@ -4,7 +4,7 @@ collection: albums
 permalink: /album/group
 ---
 点击可放大
-<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 4px;}</style>
+<style>.gallery-img{display:block; height: 150px;object-fit: cover;margin-bottom: 4px;}</style>
 <table style="float: left; width:30%"><tr><td><a href="../keli_photo/group/WeChat Image_20220323142515.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142515.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
 <table style="float: left; width:30%"><tr><td><a href="../keli_photo/group/会议合影.jpg"><img class="gallery-img" src="../keli_photo/group/会议合影.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
 <table style="float: left; width:30%"><tr><td><a href="../keli_photo/group/WeChat Image_20220323142327.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142327.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
