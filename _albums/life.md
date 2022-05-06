@@ -3,7 +3,9 @@ title: "生活照"
 collection: albums
 permalink: /album/life
 ---
-<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style><a href="../keli_photo/life/WeChat Image_20220328132232.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132232.jpg" width="24%"></a>
+点击放大
+<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>
+<a href="../keli_photo/life/WeChat Image_20220328132232.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132232.jpg" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323135853.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135853.jpg" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220323141511.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141511.jpg" width="24%"></a>
 <a href="../keli_photo/life/WeChat Image_20220328132155.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132155.jpg" width="24%"></a>
