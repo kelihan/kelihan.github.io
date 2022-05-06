@@ -10,7 +10,8 @@ dirMap={
     'others':'其他',
     'work':'工作照',
 }
-for root,d, files in os.walk('../docs/'):
+pdfPath=os.path.join(os.path.split(os.path.realpath(__file__))[0], '../docs/')
+for root,d, files in os.walk(pdfPath):
     pdffiles = [f[:-4] for f in files]
     
 for dirName in dirNames:
