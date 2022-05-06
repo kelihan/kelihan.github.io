@@ -3,7 +3,7 @@ title: "工作照"
 collection: albums
 permalink: /album/work
 ---
-<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style><a href="../keli_photo/work/DSC01700.JPG"><img class="gallery-img" src="../keli_photo/work/DSC01700.JPG" height="25" width="24%"></a>
+<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style><a href="../keli_photo/work/DSC01700.JPG"><img class="gallery-img" src="../keli_photo/work/DSC01700.JPG" width="24%"></a>
 <a href="../keli_photo/work/会议现场.jpg"><img class="gallery-img" src="../keli_photo/work/会议现场.jpg" height="25" width="24%"></a>
 <a href="../keli_photo/work/DSC01762.JPG"><img class="gallery-img" src="../keli_photo/work/DSC01762.JPG" height="25" width="24%"></a>
 <a href="../keli_photo/work/2005.JPG"><img class="gallery-img" src="../keli_photo/work/2005.JPG" height="25" width="24%"></a>
