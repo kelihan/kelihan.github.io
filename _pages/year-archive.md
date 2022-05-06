@@ -7,7 +7,6 @@ redirect_from:
   - /wordpress/blog-posts/
 ---
 ### 照片 
-点击可放大
 
 [证件照](/album/id)  
 [集体合影](/album/group)  
