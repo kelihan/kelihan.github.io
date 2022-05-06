@@ -31,9 +31,9 @@ for dirName in dirNames:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<table><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a></td></tr><tr><td><em>报道</em></td></tr></table>\n'
+                md += '<table style="width:23%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a></td></tr><tr><td><em>报道</em></td></tr></table>\n'
             else:
-                md += '<table><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>\n'
+                md += '<table style="width:23%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
         print(md_filename)
