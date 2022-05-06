@@ -3,7 +3,7 @@ title: "其他"
 collection: albums
 permalink: /album/others
 ---
-点击可放大
+点击放大
 <style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>
 <a href="../keli_photo/others/092d12f173dcfd8b1aa9a923153e0712.jpg"><img class="gallery-img" src="../keli_photo/others/092d12f173dcfd8b1aa9a923153e0712.jpg" width="24%"></a>
 <a href="../keli_photo/others/80a8fd876acd26ef88572146b3693d9a.jpg"><img class="gallery-img" src="../keli_photo/others/80a8fd876acd26ef88572146b3693d9a.jpg" width="24%"></a>

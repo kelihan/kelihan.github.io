@@ -3,7 +3,7 @@ title: "集体合影"
 collection: albums
 permalink: /album/group
 ---
-点击可放大
+点击放大
 <style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>
 <a href="../keli_photo/group/WeChat Image_20220323142515.jpg"><img class="gallery-img" src="../keli_photo/group/WeChat Image_20220323142515.jpg" width="24%"></a>
 <a href="../keli_photo/group/会议合影.jpg"><img class="gallery-img" src="../keli_photo/group/会议合影.jpg" width="24%"></a>
