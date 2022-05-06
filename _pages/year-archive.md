@@ -34,7 +34,8 @@ Report location：烟台 <br>
 Date：2021-07-26 <br>
 Organizer：鲁东大学 <br>
 
-### 大连化物所2007-2008年1101组年度总结 [Youtube版本](https://youtu.be/qQXFDqv7kms)
+### 大连化物所2007-2008年1101组年度总结[Youtube版本](https://youtu.be/qQXFDqv7kms)
+[报告文件](../docs/大连化物所2007-2008年1101组总结报告韩克利.pdf)
 <iframe width="720" height="405" frameborder="0" src="https://www.ixigua.com/iframe/7094398046292673032?autoplay=0" referrerpolicy="unsafe-url" allowfullscreen></iframe>
 
 ### 2007年UGM材料科学大学报告 [Youtube版本](https://youtu.be/pyTY47Jt4zc)
