@@ -7,7 +7,7 @@ dirMap={
     'feature':'feature',
     'group':'集体合影',
     'life':'生活照',
-    'other':'其他',
+    'others':'其他',
     'work':'工作照',
 }
 for dirName in dirNames:
