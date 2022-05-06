@@ -1,5 +1,5 @@
 import os
-from os.path import isfile, join
+#from os.path import isfile, join
 targetPath=os.path.join(os.path.split(os.path.realpath(__file__))[0], '../_albums')
 dirPath=os.path.join(os.path.split(os.path.realpath(__file__))[0], '../keli_photo')
 dirNames=['ID','group', 'life', 'others', 'work']
@@ -12,7 +12,7 @@ dirMap={
     'work':'工作照',
 }
 
-pdffiles = [f[:-3] for f in os.listdir('../docs/') if isfile(join('../docs/', f))]
+#pdffiles = [f[:-3] for f in os.listdir('../docs/') if isfile(join('../docs/', f))]
 for dirName in dirNames:
     print(dirPath+'/'+dirName)
     for root,d, files in os.walk(dirPath+'/'+dirName):
