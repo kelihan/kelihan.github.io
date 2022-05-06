@@ -10,8 +10,9 @@ dirMap={
     'others':'其他',
     'work':'工作照',
 }
-
-pdffiles = [f[:-3] for f in os.listdir('../docs/')]
+for root,d, files in os.walk('../docs/'):
+    pdffiles = [f[:-4] for f in files]
+    
 for dirName in dirNames:
     print(dirPath+'/'+dirName)
     for root,d, files in os.walk(dirPath+'/'+dirName):
@@ -23,12 +24,12 @@ for dirName in dirNames:
         md += 'collection: albums\n'
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
-        md += '点击放大\n'
+        md += '点击可放大\n'
         md += '<style>.gallery-img{ height: 150px;object-fit: cover;margin-bottom: 4px;}</style>\n'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
-            elif file[:-3] in pdffiles:
+            elif file[:-4] in pdffiles:
                 md += '<figure><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a><figcaption align = "center"><b>报道</b></figcaption></figure>\n'
             else:
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
