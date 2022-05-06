@@ -26,12 +26,12 @@ for dirName in dirNames:
         md += 'permalink: /album/'+dirName+'\n'
         md += '---\n'
         md += '点击可放大\n'
-        md += '<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 4px;}</style>\n'
+        md += '<style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 8px;}</style>\n'
         for file in files:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td><em>报道</em></td></tr></table>\n'
+                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td><em>[报道]("../docs/"+file[:-4]+".pdf")</em></td></tr></table>\n'
             else:
                 md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td><em></em></td></tr></table>\n'
                 #md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
