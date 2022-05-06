@@ -31,9 +31,9 @@ for dirName in dirNames:
             if dirName == 'ID':
                 md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img src="../keli_photo/'+ dirName + '/' +file+'" height="100"></a>\n'
             elif file[:-4] in pdffiles:
-                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td><em>[报道]("../docs/"+file[:-4]+".pdf")</em></td></tr></table>\n'
+                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td>[报道](pdfPath+file[:-4]+".pdf")</td></tr></table>\n'
             else:
-                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td><em></em></td></tr></table>\n'
+                md += '<table style="float: left; width:30%"><tr><td><a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="100%"></a></td></tr><tr><td>     </td></tr></table>\n'
                 #md += '<a href="../keli_photo/'+ dirName + '/'+file+'"><img class="gallery-img" src="../keli_photo/'+ dirName + '/' +file+'" width="24%"></a>\n'
         
         md_filename = os.path.join(targetPath, md_filename)
