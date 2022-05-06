@@ -5,30 +5,30 @@ permalink: /album/life
 ---
 点击可放大
 <style>.gallery-img{height: 150px;object-fit: cover;margin-bottom: 8px;}</style>
-<a href="../keli_photo/life/WeChat Image_20220328132232.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132232.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135853.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135853.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323141511.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141511.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132155.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132155.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323140356.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140356.jpg" width="24%"></a>
-<a href="../keli_photo/life/af6d5117e4b24354fe087428d3ff6e75.jpg"><img class="gallery-img" src="../keli_photo/life/af6d5117e4b24354fe087428d3ff6e75.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132428.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132428.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323140914.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140914.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135619.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135619.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220322203451.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220322203451.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220322203528.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220322203528.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323205923.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323205923.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat_Image_20220323141826.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat_Image_20220323141826.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328131919.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328131919.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135915.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135915.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132027.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132027.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323141011.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141011.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323142126.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323142126.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132707.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132707.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135050.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135050.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135712.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135712.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323141645.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141645.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323140455.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140455.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135741.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135741.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132744.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132744.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220323135811.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135811.jpg" width="24%"></a>
-<a href="../keli_photo/life/WeChat Image_20220328132544.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132544.jpg" width="24%"></a>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132232.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132232.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135853.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135853.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323141511.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141511.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132155.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132155.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323140356.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140356.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/af6d5117e4b24354fe087428d3ff6e75.jpg"><img class="gallery-img" src="../keli_photo/life/af6d5117e4b24354fe087428d3ff6e75.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132428.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132428.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323140914.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140914.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135619.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135619.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220322203451.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220322203451.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220322203528.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220322203528.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323205923.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323205923.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat_Image_20220323141826.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat_Image_20220323141826.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328131919.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328131919.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135915.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135915.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132027.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132027.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323141011.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141011.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323142126.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323142126.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132707.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132707.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135050.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135050.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135712.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135712.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323141645.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323141645.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323140455.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323140455.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135741.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135741.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132744.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132744.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220323135811.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220323135811.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
+<table><tr><td><a href="../keli_photo/life/WeChat Image_20220328132544.jpg"><img class="gallery-img" src="../keli_photo/life/WeChat Image_20220328132544.jpg" width="24%"></a></td></tr><tr><td><em></em></td></tr></table>
